@@ -1,6 +1,6 @@
-# Bot de Telegram para Monitoreo de SolarWinds
+# Bot de Telegram para Obtener Información de SolarWinds
 
-Este bot de Telegram permite obtener información sobre el uso de CPU y memoria en los nodos de un entorno de producción de SolarWinds y generar gráficas con los datos obtenidos.
+Este bot de Telegram permite obtener información sobre el TOP 5 de uso de CPU y memoria de los nodos de SolarWinds y generar gráficas con los datos obtenidos.
 
 ## Características
 - Consulta información de nodos en SolarWinds.
